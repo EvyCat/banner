@@ -32,7 +32,8 @@ html {
 
 .banner-content {
   position: absolute;
-  bottom: 0.10rem;
+  bottom: 0;
   color: white;
-  left: 6.5rem;
+  left: 0;
+  width:100%;
 }
