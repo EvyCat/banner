@@ -30,6 +30,6 @@ html {
 
 .banner-content {
   position: absolute;
-  bottom: 1rem;
+  bottom: 0.10rem;
   color: white;
 }
